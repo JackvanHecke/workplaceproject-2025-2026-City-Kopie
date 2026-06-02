@@ -1,0 +1,18 @@
+[
+  {
+    "id": 3,
+    "name": "Coach C (new)",
+    "role": "Trainer",
+    "offers": [
+      {
+        "offerType": "Group lessons",
+        "price": 35,
+        "freeOrPaid": "paid",
+        "recurrence": "Once"
+      }
+    ],
+    "price": { "amount": 35 },
+    "locations": [{ "id": 20, "benchName": "Riverside Bench", "city": "Amsterdam" }],
+    "availability": []
+  }
+]

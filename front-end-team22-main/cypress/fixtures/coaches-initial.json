@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Coach A",
+    "role": "Trainer",
+    "offers": [
+      {
+        "offerType": "Group lessons",
+        "price": 25,
+        "freeOrPaid": "paid",
+        "recurrence": "Weekly"
+      }
+    ],
+    "price": { "amount": 25 },
+    "locations": [{ "id": 10, "benchName": "Central Park Bench", "city": "New York" }],
+    "availability": []
+  },
+  {
+    "id": 2,
+    "name": "Coach B",
+    "role": "Trainer",
+    "offers": [],
+    "price": { "amount": 0 },
+    "locations": [],
+    "availability": []
+  }
+]
